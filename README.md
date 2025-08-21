@@ -19,7 +19,6 @@ I'm currently working on Building Multiplatform App using KMP
 [![](https://visitcount.itsvg.in/api?id=Steve-omush&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
-<img src="https://raw.githubusercontent.com/Steve-omush/Steve-omush/output/snake.svg" alt="Snake animation" />
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
